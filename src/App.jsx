@@ -1,5 +1,4 @@
 import { Layout } from "antd";
-import React from "react";
 
 import LoginCard from "./components/LoginCard";
 import { wait } from "./libs/promises";

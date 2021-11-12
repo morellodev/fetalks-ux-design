@@ -1,5 +1,4 @@
 import { Card } from "antd";
-import React from "react";
 
 import LoginForm from "./LoginForm";
 import Logo from "./Logo";
